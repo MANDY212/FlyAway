@@ -1,6 +1,6 @@
 # FlyAway
 FlyAway is a ticket-booking portal that lets people book flights on their website.
-Sprint One :
+### Sprint One :
         - Initialize the Project
         - Code the Home Page
         - Add options to redirect to the other pages :
@@ -19,7 +19,7 @@ Sprint One :
                     5.) Customer can Check all the previous Bookings
                     6.) Customer can update the password
                     7.) Customer can logout
-Sprint Two :
+ ### Sprint Two :
         - Admin Login
             a.) Login form for the Admin    
             b.) If the login details are vaild, Admin is re-directed to Admin details page
